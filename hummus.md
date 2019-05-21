@@ -3,3 +3,5 @@
 chickpeas
 tahini
 olive oil
+lemon
+salt
