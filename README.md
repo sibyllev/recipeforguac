@@ -1,5 +1,5 @@
 # Git training - a recipe for guac
-
+prep everything!
 - avocado
 - onion
 - tomato
