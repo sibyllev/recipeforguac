@@ -1,4 +1,12 @@
 # Git training - a recipe for guac
+
+- avocado
+- onion
+- salt & pepper
+
+Put into a bowl and mix.
+
+
 An example repository for introductory **Git** training 
 
 - you can add bullets
