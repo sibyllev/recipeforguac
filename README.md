@@ -2,6 +2,7 @@
 
 - avocado
 - onion
+- tomato
 - salt & pepper
 
 Put into a bowl and mix.
