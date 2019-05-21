@@ -5,7 +5,7 @@
 - tomato
 - salt & pepper
 
-#Instructions
+# Instructions
 - chop tomatoes and onions
 - cut open avocado and remove stone, mash
 - put into a bowl and mix, add salt & pepper
