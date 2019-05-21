@@ -1,2 +1,2 @@
-# recipeforguac
-An example repository for introductory Git training 
+# Git training - a recipe for guac
+An example repository for introductory **Git** training 
