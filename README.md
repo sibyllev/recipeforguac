@@ -5,7 +5,10 @@
 - tomato
 - salt & pepper
 
-Put into a bowl and mix.
+#Instructions
+- chop tomatoes and onions
+- cut open avocado and remove stone, mash
+- put into a bowl and mix, add salt & pepper
 
 
 An example repository for introductory **Git** training 
